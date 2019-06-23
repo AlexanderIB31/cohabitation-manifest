@@ -7,6 +7,7 @@ Cohabitation manifest is a set of rules that every cohabitant must abide by.
 * [Общие положения](#common)
 * [Кухня](#kitchen)
 * [Ванна/туалет](#bathroom)
+* [Финансы](#finance)
 
 
 <a name="common"></a>
@@ -24,3 +25,7 @@ Cohabitation manifest is a set of rules that every cohabitant must abide by.
 ## Ванна/туалет
 - После использования ванны необходимо удостовериться, что на полу нет воды.
 - После использования туалета необходимо удостовериться, что туалет остался чистым.
+
+<a name="finance"></a>
+## Финансы
+- Не затягивать с финансовыми рассчетами после совершение общедомовых трат (1-3 дня на подсчет доли каждого из сожителей и последующую выплату)
